@@ -1,4 +1,4 @@
-# COLAB-Notebooks 🖥️📚
+# COLAB-Notebooks 
 
 This repository contains **my personal Google Colab notebooks** showcasing my **machine learning and deep learning projects**. It documents my hands-on learning, experiments, and implementations of various ML models.
 
